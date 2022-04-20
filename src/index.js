@@ -6,9 +6,6 @@ const app = express();
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
 
-// testando a conexão na porta 3000
-/*app.get('/', (rec, res) => {
-    res.send('Hello World!!!');
-})*/
+require('./controllers/authController')(app);
 
 app.listen(3000);
