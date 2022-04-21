@@ -33,9 +33,9 @@
 </p>
 
 <p>
-    Recuperação de senha <img align="center" height="15" width="20" src="./assets/img/loading.png">
+    Recuperação de senha <img align="center" height="15" width="20" src="./assets/img/loading.gif">
 </p>
 
 <p>
-    Ligação com o banco de dados <img align="center" height="15" width="20" src="./assets/img/loading.png">
+    Ligação com o banco de dados <img align="center" height="15" width="20" src="./assets/img/loading.gif">
 </p>
