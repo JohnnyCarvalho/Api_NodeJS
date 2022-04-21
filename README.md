@@ -15,5 +15,5 @@
     Etapas
 </h2>
 <p>
-    <input type="checkbox"/> HTML<br />
+    Criar projeto node <img align="center" height="30" width="40" src="./assets/img/ok.jpg">
 </p>
