@@ -29,7 +29,7 @@
 </p>
 
 <p>
-    Autenticação de usuário <img align="center" height="15" width="20" src="./assets/img/loading.webp">
+    Autenticação de usuário <img align="center" height="15" width="20" src="./assets/img/loading.gif">
 </p>
 
 <p>
