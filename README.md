@@ -15,5 +15,5 @@
     Etapas
 </h2>
 <p>
-    <input type="checkbox" name="opcoes" value="html"/> HTML<br />
+    <input type="checkbox"/> HTML<br />
 </p>
