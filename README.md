@@ -16,7 +16,9 @@
 
 
 ```
-Uma API em node.js para ligação e cadastro com o banco de dados de usuários em um sistema de login e senha,<br>com authenticação, validação e recuperação de senha.
+    Uma API em node.js para conexão e cadastro com o banco de dados 
+    de usuários em um sistema de login e senha, com authenticação, 
+    validação e recuperação de senha.
 ```
 
 <h2>
