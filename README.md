@@ -29,27 +29,22 @@
     Criar projeto node <img align="center" height="15" width="20" src="./assets/img/ok.png">
 </p>
 
-
-<img align="center" height="15" width="20" src="./assets/img/ok.png">
-
-- Arquitetura de pastas do projeto
-
-
 <p>
-    Data base <img align="center" height="15" width="20" src="./assets/img/ok.png">
+    <img align="center" height="15" width="20" src="./assets/img/ok.png"> - Arquitetura de pastas do projeto
 </p>
 
 <p>
-    Autenticação de usuário <img align="center" height="15" width="20" src="./assets/img/ok.png">
+    <img align="center" height="15" width="20" src="./assets/img/ok.png"> - Data base
 </p>
 
 <p>
-    Recuperação de senha <img align="center" height="15" width="20" src="./assets/img/ZZ5H.gif">
+    <img align="center" height="15" width="20" src="./assets/img/ok.png"> - Autenticação de usuário 
 </p>
 
 <p>
-    Ligação com o banco de dados <img align="center" height="15" width="20" src="./assets/img/ZZ5H.gif">
+    <img align="center" height="15" width="20" src="./assets/img/ZZ5H.gif"> - Recuperação de senha
 </p>
 
--teste
-- teste
+<p>
+    <img align="center" height="15" width="20" src="./assets/img/ZZ5H.gif"> - Ligação com o banco de dados 
+</p>
