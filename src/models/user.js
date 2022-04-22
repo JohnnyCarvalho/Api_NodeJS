@@ -12,6 +12,11 @@ const UserSchema = new mongoose.Schema({
         require: true,
         lowercase: true,// força a converção em caixa baixa
     },
+    userName: {
+        type: String,
+        unique: true,
+        required: true,
+    },
     password: {
         type: String,
         require: true,
