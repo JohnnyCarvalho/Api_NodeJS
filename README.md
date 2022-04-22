@@ -29,9 +29,11 @@
     Criar projeto node <img align="center" height="15" width="20" src="./assets/img/ok.png">
 </p>
 
-<p>
-    <img align="center" height="15" width="20" src="./assets/img/ok.png"> Arquitetura de pastas do projeto
-</p>
+
+<img align="center" height="15" width="20" src="./assets/img/ok.png">
+
+- Arquitetura de pastas do projeto
+
 
 <p>
     Data base <img align="center" height="15" width="20" src="./assets/img/ok.png">
