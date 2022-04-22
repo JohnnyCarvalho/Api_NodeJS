@@ -38,7 +38,7 @@
 </p>
 
 <p>
-    Autenticação de usuário <img align="center" height="15" width="20" src="./assets/img/ZZ5H.gif">
+    Autenticação de usuário <img align="center" height="15" width="20" src="./assets/img/ok.png">
 </p>
 
 <p>
