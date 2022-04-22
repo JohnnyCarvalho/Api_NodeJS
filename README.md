@@ -30,21 +30,21 @@
 </p>
 
 <p>
-    <img align="center" height="15" width="20" src="./assets/img/ok.png"> - Arquitetura de pastas do projeto
+    <img align="center" height="20" width="20" src="./assets/img/ok.png"> - Arquitetura de pastas do projeto
 </p>
 
 <p>
-    <img align="center" height="15" width="20" src="./assets/img/ok.png"> - Data base
+    <img align="center" height="20" width="20" src="./assets/img/ok.png"> - Data base
 </p>
 
 <p>
-    <img align="center" height="15" width="20" src="./assets/img/ok.png"> - Autenticação de usuário 
+    <img align="center" height="20" width="20" src="./assets/img/ok.png"> - Autenticação de usuário 
 </p>
 
 <p>
-    <img align="center" height="15" width="20" src="./assets/img/ZZ5H.gif"> - Recuperação de senha
+    <img align="center" height="20" width="20" src="./assets/img/ZZ5H.gif"> - Recuperação de senha
 </p>
 
 <p>
-    <img align="center" height="15" width="20" src="./assets/img/ZZ5H.gif"> - Ligação com o banco de dados 
+    <img align="center" height="20" width="20" src="./assets/img/ZZ5H.gif"> - Ligação com o banco de dados 
 </p>
