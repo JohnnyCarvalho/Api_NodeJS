@@ -26,7 +26,7 @@
 </h2>
 
 <p>
-    <img align="center" height="10" width="20" src="./assets/img/ok.png"> - Criar projeto node
+    <img align="center" height="15" width="15" src="./assets/img/ok.png"> - Criar projeto node
 </p>
 
 <p>
