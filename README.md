@@ -42,7 +42,7 @@
 </p>
 
 <p>
-    <img align="center" height="20" width="20" src="./assets/img/ZZ5H.gif"> - Recuperação de senha
+    <img align="center" height="20" width="20" src="./assets/img/ZZ5H.gif"> - Envio de email para recuperação de senha
 </p>
 
 <p>
