@@ -11,7 +11,7 @@
     <img align="center" alt="Johnny-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Johnny-Ex" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
     <img align="center" alt="Johnny-Mongo-Db" height="30" width="40" color="#FFFFFF" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+    <i class="devicon-express-original "></i>
           
     </h2>
 </div>
