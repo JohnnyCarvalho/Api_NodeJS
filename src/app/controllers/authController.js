@@ -1,9 +1,9 @@
 const express = require('express');
-const User = require('../models/user');
+const User = require('.././models/user');
 const router = express.Router();
 const bcrypt = require('bcryptjs');
 const jwt = require('jsonwebtoken');
-const authConfig = require('../config/auth');
+const authConfig = require('../../config/auth');
 
 // crria um token
 function generateToken(params = {}) {
