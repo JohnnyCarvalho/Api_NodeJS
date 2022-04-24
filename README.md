@@ -38,7 +38,19 @@
 </p>
 
 <p>
-    <img align="center" height="20" width="20" src="./src/assets/img/ok.png"> - Autenticação de usuário 
+    <img align="center" height="20" width="20" src="./src/assets/img/ok.png"> - Ligando ao banco de dados mongodb usando o mongoose.
+</p>
+
+<p>
+    <img align="center" height="20" width="20" src="./src/assets/img/ok.png"> - Registrando usuário no banco de dados.
+</p>
+
+<p>
+    <img align="center" height="20" width="20" src="./src/assets/img/ok.png"> - Autenticação de usuário .
+</p>
+
+<p>
+    <img align="center" height="20" width="20" src="./src/assets/img/ok.png"> - Recuperação de senha através de token (quando tiver o front-end pode ser implementado um link).
 </p>
 
 <p>
@@ -46,5 +58,5 @@
 </p>
 
 <p>
-    <img align="center" height="20" width="20" src="./src/assets/img/ZZ5H.gif"> - Ligação com o banco de dados 
+    <img align="center" height="20" width="20" src="./src/assets/img/ZZ5H.gif"> - Criação de um CRUD
 </p>
