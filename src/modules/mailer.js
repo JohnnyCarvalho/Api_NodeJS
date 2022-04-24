@@ -3,6 +3,7 @@ const { host, port, user, pass } = require('../config/mail.json');
 const hbs = require('nodemailer-express-handlebars');
 const path = require('path');
 
+// Configuracion de Handlebars
 const transport = nodemailer.createTransport({
     host,
     port,
@@ -16,4 +17,4 @@ transport.use('compile', hbs({
     extName: '.html',
 }))
 
-  module.exports = transport;
+module.exports = transport;

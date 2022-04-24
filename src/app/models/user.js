@@ -22,6 +22,14 @@ const UserSchema = new mongoose.Schema({
         require: true,
         select: false,// serve para quando fizer a requisição dos usuários no banco de dados a senha não vem junto no array de usuários.
     },
+    passwordResetToken: {
+        type: String,
+        select: false,
+    },
+    passwordResetExpires: {
+        type: Date,
+        select: false,
+    },
     createdAt: {
         type: Date,
         default: Date.now,
