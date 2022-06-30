@@ -48,19 +48,3 @@
 <p>
     <img align="center" height="20" width="20" src="./src/assets/img/ok.png"> - Autenticação de usuário .
 </p>
-
-<p>
-    <img align="center" height="20" width="20" src="./src/assets/img/ok.png"> - Recuperação de senha através de token (quando tiver o front-end pode ser implementado um link).
-</p>
-
-<p>
-    <img align="center" height="20" width="20" src="./src/assets/img/ok.png"> - Ligando projeto ao Mailtrap
-</p>
-
-<p>
-    <img align="center" height="20" width="20" src="./src/assets/img/ZZ5H.gif"> - Envio de email com o token para recuperação de senha utilizando o Mailtrap.
-</p>
-
-<p>
-    <img align="center" height="20" width="20" src="./src/assets/img/ZZ5H.gif"> - Criação de um CRUD
-</p>
